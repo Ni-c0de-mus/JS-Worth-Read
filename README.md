@@ -8,3 +8,7 @@ If you're an intermediate JavaScript developer and want to solidify your underst
 [![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat)](#)
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/divyanshu-rawat)
+
+Thank you so much for this resource. awesome!!!
+
+Nic Oct 8th, 2019
